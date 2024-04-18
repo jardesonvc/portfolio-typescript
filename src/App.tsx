@@ -29,7 +29,7 @@ function App() {
 
           <section className='home'>
               <div className='informacoes'>
-                  <h1>Olá sou Jardeson Carvalho</h1>
+                  <h1>Olá, sou Jardeson Carvalho</h1>
                   <p>Um desenvolvedor frontend em formação apaixonado por tecnologia.</p>
                   <p>Estou sempre me desafiando com novos projetos e buscando feedback na comunidade de programação, além de compartilhar meus conhecimentos. 😁</p>
 
